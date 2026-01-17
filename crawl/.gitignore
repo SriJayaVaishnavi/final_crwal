@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Scraper output and databases
+output/
+*.db
+*.log
+pdf_links.txt
+
+# IDE
+.vscode/
+.idea/
